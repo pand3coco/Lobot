@@ -1,0 +1,1 @@
+<html><head><meta charset="utf-8" /></head><body><script type="text/javascript" nonce="tXQ7GooB">document.location.replace("https:\/\/pokeapi.co\/api\/v2\/pokemon\/Pikachu");</script></body></html>
